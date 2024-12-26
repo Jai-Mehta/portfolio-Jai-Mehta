@@ -6,18 +6,19 @@
   "homepage": "https://github.com/Jai-Mehta/portfolio-Jai-Mehta",
   "main": "src/index.tsx",
   "dependencies": {
+    "framer-motion": "11.12.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0",
-    "styled-components": "6.1.13",
-    "framer-motion": "11.12.0",
     "react-icons": "5.3.0",
+    "react-intersection-observer": "9.13.1",
+    "react-scripts": "^5.0.0",
     "react-scroll": "1.9.0",
-    "react-intersection-observer": "9.13.1"
+    "styled-components": "6.1.13"
   },
   "devDependencies": {
     "@types/react": "18.2.38",
     "@types/react-dom": "18.2.15",
+    "gh-pages": "^6.2.0",
     "loader-utils": "3.2.1",
     "typescript": "4.4.4"
   },
