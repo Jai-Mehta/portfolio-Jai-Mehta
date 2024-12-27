@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/portfolio-Jai-Mehta/static/js/main.5b881c9e.js",
+    "main.js": "/portfolio-Jai-Mehta/static/js/main.c5a5f93b.js",
     "static/media/mumbai.png": "/portfolio-Jai-Mehta/static/media/mumbai.e59f45b23d083f9034a3.png",
     "static/media/kjsce_logo.png": "/portfolio-Jai-Mehta/static/media/kjsce_logo.8357ddb5d2e6622e7d07.png",
     "static/media/sbu.png": "/portfolio-Jai-Mehta/static/media/sbu.78ce955d141a5c1aa2e8.png",
@@ -9,9 +9,9 @@
     "static/media/Profile.jpg": "/portfolio-Jai-Mehta/static/media/Profile.87e51c9555ac3e6a7577.jpg",
     "static/media/gcloud.png": "/portfolio-Jai-Mehta/static/media/gcloud.70465c4d5e1ef3848a29.png",
     "index.html": "/portfolio-Jai-Mehta/index.html",
-    "main.5b881c9e.js.map": "/portfolio-Jai-Mehta/static/js/main.5b881c9e.js.map"
+    "main.c5a5f93b.js.map": "/portfolio-Jai-Mehta/static/js/main.c5a5f93b.js.map"
   },
   "entrypoints": [
-    "static/js/main.5b881c9e.js"
+    "static/js/main.c5a5f93b.js"
   ]
 }
