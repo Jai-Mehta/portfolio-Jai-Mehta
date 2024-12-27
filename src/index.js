@@ -6,8 +6,17 @@ import App from "./App";
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
+// root.render(
+//   <StrictMode>
+//     <App />
+//   </StrictMode>
+// );
+import { BrowserRouter } from "react-router-dom";
+
 root.render(
   <StrictMode>
-    <App />
+    <BrowserRouter basename="/portfolio-Jai-Mehta">
+      <App />
+    </BrowserRouter>
   </StrictMode>
 );
