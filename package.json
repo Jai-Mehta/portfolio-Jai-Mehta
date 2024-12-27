@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://Jai-Mehta.github.io/portfolio-Jai-Mehta.github.io",
+  "homepage": "https://Jai-Mehta.github.io/portfolio-Jai-Mehta",
   "main": "src/index.js",
   "dependencies": {
     "framer-motion": "11.12.0",
