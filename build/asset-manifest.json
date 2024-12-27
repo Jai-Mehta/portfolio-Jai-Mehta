@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/js/main.31ae5a1d.js",
-    "static/media/mumbai.png": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/media/mumbai.e59f45b23d083f9034a3.png",
-    "static/media/kjsce_logo.png": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/media/kjsce_logo.8357ddb5d2e6622e7d07.png",
-    "static/media/sbu.png": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/media/sbu.78ce955d141a5c1aa2e8.png",
-    "static/media/coursera.png": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/media/coursera.92744b2e799346019691.png",
-    "static/media/deutsche_logo.png": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/media/deutsche_logo.d1df285639afb175bbae.png",
-    "static/media/Profile.jpg": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/media/Profile.87e51c9555ac3e6a7577.jpg",
-    "static/media/gcloud.png": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/media/gcloud.70465c4d5e1ef3848a29.png",
-    "index.html": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/index.html",
-    "main.31ae5a1d.js.map": "/Jai-Mehta/portfolio-Jai-Mehta.github.io/static/js/main.31ae5a1d.js.map"
+    "main.js": "/portfolio-Jai-Mehta/static/js/main.5b881c9e.js",
+    "static/media/mumbai.png": "/portfolio-Jai-Mehta/static/media/mumbai.e59f45b23d083f9034a3.png",
+    "static/media/kjsce_logo.png": "/portfolio-Jai-Mehta/static/media/kjsce_logo.8357ddb5d2e6622e7d07.png",
+    "static/media/sbu.png": "/portfolio-Jai-Mehta/static/media/sbu.78ce955d141a5c1aa2e8.png",
+    "static/media/coursera.png": "/portfolio-Jai-Mehta/static/media/coursera.92744b2e799346019691.png",
+    "static/media/deutsche_logo.png": "/portfolio-Jai-Mehta/static/media/deutsche_logo.d1df285639afb175bbae.png",
+    "static/media/Profile.jpg": "/portfolio-Jai-Mehta/static/media/Profile.87e51c9555ac3e6a7577.jpg",
+    "static/media/gcloud.png": "/portfolio-Jai-Mehta/static/media/gcloud.70465c4d5e1ef3848a29.png",
+    "index.html": "/portfolio-Jai-Mehta/index.html",
+    "main.5b881c9e.js.map": "/portfolio-Jai-Mehta/static/js/main.5b881c9e.js.map"
   },
   "entrypoints": [
-    "static/js/main.31ae5a1d.js"
+    "static/js/main.5b881c9e.js"
   ]
 }
